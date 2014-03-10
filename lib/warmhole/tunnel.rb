@@ -1,0 +1,3 @@
+class Warmhole::Tunnel
+end
+
